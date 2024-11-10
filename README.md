@@ -63,7 +63,7 @@ Before you begin, ensure you have met the following requirements:
 <img src="https://github.com/adithyanraj03/License-Plate-Detection-and-Recognition-System-using-OpenCV-YOLOv5-PyTesseract/blob/main/Data/Screenshot%202024-11-10%20214103.png" width="600" alt="License Plate Detection">
 
 ## 📊 Results Visualization
-<img src="https://raw.githubusercontent.com/adithyanraj03/License-Plate-Detection-and-Recognition-System-using-OpenCV-YOLOv5-PyTesseract/main/Screenshot%202024-11-10%20214248.png" width="600" alt="License Plate Detection">
+<img src="https://raw.githubusercontent.com/adithyanraj03/License-Plate-Detection-and-Recognition-System-using-OpenCV-YOLOv5-PyTesseract/main/Data/Screenshot%202024-11-10%20214248.png" width="600" alt="License Plate Detection">
 <img src="https://github.com/adithyanraj03/License-Plate-Detection-and-Recognition-System-using-OpenCV-YOLOv5-PyTesseract/blob/main/Data/Screenshot%202024-11-10%20223317.png" width="600" alt="License Plate Detection">
 <img src="https://github.com/adithyanraj03/License-Plate-Detection-and-Recognition-System-using-OpenCV-YOLOv5-PyTesseract/blob/main/Data/Screenshot%202024-11-10%20223337.png" width="600" alt="License Plate Detection">
 
