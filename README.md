@@ -1,7 +1,7 @@
 # License-Plate-Detection-and-Recognition-System-using-OpenCV-YOLOv5-PyTesseract
 
 
-![License Plate Detection](https://drive.google.com/file/d/1X_9F7-nupk0Pxs8JXvG1Vz2WGZ8-xUSC/view?usp=sharing)
+<img src="https://raw.githubusercontent.com/adithyanraj03/License-Plate-Detection-and-Recognition-System-using-OpenCV-YOLOv5-PyTesseract/main/Screenshot%202024-11-10%20214248.png" width="600" alt="License Plate Detection">
 
 ## 🚀 Overview
 
@@ -59,9 +59,14 @@ Before you begin, ensure you have met the following requirements:
 4.View the results in the displayed windows and console output.
 
 ## 🧪 Performance Metrics
+<img src="https://github.com/adithyanraj03/License-Plate-Detection-and-Recognition-System-using-OpenCV-YOLOv5-PyTesseract/blob/main/Screenshot%202024-11-10%20214029.png" width="600" alt="License Plate Detection">
+<img src="https://github.com/adithyanraj03/License-Plate-Detection-and-Recognition-System-using-OpenCV-YOLOv5-PyTesseract/blob/main/Screenshot%202024-11-10%20214103.png" width="600" alt="License Plate Detection">
 
 ## 📊 Results Visualization
-Results
+<img src="https://raw.githubusercontent.com/adithyanraj03/License-Plate-Detection-and-Recognition-System-using-OpenCV-YOLOv5-PyTesseract/main/Screenshot%202024-11-10%20214248.png" width="600" alt="License Plate Detection">
+<img src="https://raw.githubusercontent.com/adithyanraj03/License-Plate-Detection-and-Recognition-System-using-OpenCV-YOLOv5-PyTesseract/main/Screenshot%202024-11-10%20214248.png" width="600" alt="License Plate Detection">
+<img src="https://raw.githubusercontent.com/adithyanraj03/License-Plate-Detection-and-Recognition-System-using-OpenCV-YOLOv5-PyTesseract/main/Screenshot%202024-11-10%20214248.png" width="600" alt="License Plate Detection">
+
 
 ## 📜 License
 This project is licensed under the MIT License - see the LICENSE file for details.
