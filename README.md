@@ -75,3 +75,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 Adithya N Raj - adithyanraj03@gmail.com <br>
 Project Link: https://github.com/adithyanraj03/License-Plate-Detection-and-Recognition-System-using-OpenCV-YOLOv5-PyTesseract <br>⭐️ From Adithya N Raj
+
